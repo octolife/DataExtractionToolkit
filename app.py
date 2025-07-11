@@ -29,7 +29,7 @@ st.markdown(
 
 # Main Title
 st.title("Octolife's Data Extracting Toolkit")
-# st.logo("logo.png", size = "large")
+st.logo("logo.png", size = "large")
 
 # Sidebar Menu
 mode = st.sidebar.radio(
