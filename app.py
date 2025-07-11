@@ -33,7 +33,7 @@ st.logo("logo.png", size = "large")
 
 # Sidebar Menu
 mode = st.sidebar.radio(
-    "Select Operation",
+    "Select Website",
     [
         "Croma",
         "VijaySales",
